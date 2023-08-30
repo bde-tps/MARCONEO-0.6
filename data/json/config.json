@@ -1,0 +1,166 @@
+{
+    "data": [
+        {
+            "id": 3,
+            "product_type": "CharcutFromage",
+            "products": [
+                {
+                    "id": 6,
+                    "name": "charcuterie",
+                    "title": "charcuterie",
+                    "price": "4.40",
+                    "color": "#f3308b",
+                    "selected": false
+                },
+                {
+                    "id": 7,
+                    "name": "fromage",
+                    "title": "fromage",
+                    "price": "3.00",
+                    "color": "#3f4539",
+                    "selected": false
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "product_type": "Go\u00fbter",
+            "products": [
+                {
+                    "id": 9,
+                    "name": "cookies",
+                    "title": "cookies",
+                    "price": "2.20",
+                    "color": "#cae083",
+                    "selected": false
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "product_type": "Midi",
+            "products": [
+                {
+                    "id": 4,
+                    "name": "pizza",
+                    "title": "pizza",
+                    "price": "2.60",
+                    "color": "#d71c3f",
+                    "selected": false
+                },
+                {
+                    "id": 5,
+                    "name": "sandwich",
+                    "title": "sandwich",
+                    "price": "2.00",
+                    "color": "#663c92",
+                    "selected": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "product_type": "Oeno",
+            "products": [
+                {
+                    "id": 8,
+                    "name": "bordeaux",
+                    "title": "bordeaux",
+                    "price": "1.60",
+                    "color": "#151a60",
+                    "selected": false
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "product_type": "Shots",
+            "products": [
+                {
+                    "id": 10,
+                    "name": "metre",
+                    "title": "metre",
+                    "price": "1.20",
+                    "color": "#5e9013",
+                    "selected": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "product_type": "Soir\u00e9e",
+            "products": [
+                {
+                    "id": 1,
+                    "name": "cocktail12",
+                    "title": "cocktail12",
+                    "price": "1.40",
+                    "color": "#106746",
+                    "selected": false
+                },
+                {
+                    "id": 2,
+                    "name": "cocktail16",
+                    "title": "cocktail16",
+                    "price": "1.60",
+                    "color": "#3a40ba",
+                    "selected": false
+                },
+                {
+                    "id": 3,
+                    "name": "meteor",
+                    "title": "meteor",
+                    "price": "1.20",
+                    "color": "#410c9d",
+                    "selected": false
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "product_type": "Rechargement",
+            "products": [
+                {
+                    "id": null,
+                    "name": "un",
+                    "title": "un",
+                    "price": 1,
+                    "color": "#66b3ff",
+                    "selected": true
+                },
+                {
+                    "id": null,
+                    "name": "cinq",
+                    "title": "cinq",
+                    "price": 5,
+                    "color": "#66b3ff",
+                    "selected": true
+                },
+                {
+                    "id": null,
+                    "name": "dix",
+                    "title": "dix",
+                    "price": 10,
+                    "color": "#66b3ff",
+                    "selected": true
+                },
+                {
+                    "id": null,
+                    "name": "vingt",
+                    "title": "vingt",
+                    "price": 20,
+                    "color": "#66b3ff",
+                    "selected": true
+                },
+                {
+                    "id": null,
+                    "name": "cinquante",
+                    "title": "cinquante",
+                    "price": 50,
+                    "color": "#66b3ff",
+                    "selected": true
+                }
+            ]
+        }
+    ]
+}
