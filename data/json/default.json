@@ -1,0 +1,222 @@
+{
+    "data": [
+        {
+            "id": 3,
+            "product_type": "CharcutFromage",
+            "products": [
+                {
+                    "id": 6,
+                    "name": "charcuterie",
+                    "title": "charcuterie",
+                    "price": "4.40",
+                    "color": "#6deb74",
+                    "selected": false
+                },
+                {
+                    "id": 7,
+                    "name": "fromage",
+                    "title": "fromage",
+                    "price": "3.00",
+                    "color": "#2d47f2",
+                    "selected": false
+                },
+                {
+                    "id": 11,
+                    "name": "aFZEF",
+                    "title": "FZEfzfe",
+                    "price": "1.00",
+                    "color": "#ff00f7",
+                    "selected": false
+                },
+                {
+                    "id": 12,
+                    "name": "ereee",
+                    "title": "erreeee",
+                    "price": "2.00",
+                    "color": "#00ff11",
+                    "selected": false
+                },
+                {
+                    "id": 13,
+                    "name": "azer",
+                    "title": "azert",
+                    "price": "3.00",
+                    "color": "#bb00ff",
+                    "selected": false
+                },
+                {
+                    "id": 14,
+                    "name": "gjgykk",
+                    "title": "hukhgb",
+                    "price": "3.00",
+                    "color": "#fbff00",
+                    "selected": false
+                },
+                {
+                    "id": 15,
+                    "name": "jklhl",
+                    "title": "ljiljli",
+                    "price": "4.00",
+                    "color": "#4c00ff",
+                    "selected": false
+                },
+                {
+                    "id": 16,
+                    "name": "sregsgnj",
+                    "title": "fjfjgv",
+                    "price": "12.00",
+                    "color": "#c8ff00",
+                    "selected": false
+                },
+                {
+                    "id": 17,
+                    "name": "doowap",
+                    "title": "drhdh",
+                    "price": "12.00",
+                    "color": "#2fa027",
+                    "selected": false
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "product_type": "Go\u00fbter",
+            "products": [
+                {
+                    "id": 9,
+                    "name": "cookies",
+                    "title": "cookies",
+                    "price": "2.20",
+                    "color": "#e32f81",
+                    "selected": false
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "product_type": "Midi",
+            "products": [
+                {
+                    "id": 4,
+                    "name": "pizza",
+                    "title": "pizza",
+                    "price": "2.60",
+                    "color": "#79fc46",
+                    "selected": false
+                },
+                {
+                    "id": 5,
+                    "name": "sandwich",
+                    "title": "sandwich",
+                    "price": "2.00",
+                    "color": "#8ab96e",
+                    "selected": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "product_type": "Oeno",
+            "products": [
+                {
+                    "id": 8,
+                    "name": "bordeaux",
+                    "title": "bordeaux",
+                    "price": "1.60",
+                    "color": "#296195",
+                    "selected": false
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "product_type": "Shots",
+            "products": [
+                {
+                    "id": 10,
+                    "name": "metre",
+                    "title": "metre",
+                    "price": "1.20",
+                    "color": "#a8c54a",
+                    "selected": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "product_type": "Soir\u00e9e",
+            "products": [
+                {
+                    "id": 1,
+                    "name": "cocktail12",
+                    "title": "cocktail12",
+                    "price": "1.20",
+                    "color": "#0c7091",
+                    "selected": false
+                },
+                {
+                    "id": 2,
+                    "name": "cocktail16",
+                    "title": "cocktail16",
+                    "price": "1.60",
+                    "color": "#e9c256",
+                    "selected": false
+                },
+                {
+                    "id": 3,
+                    "name": "meteor",
+                    "title": "meteor",
+                    "price": "1.20",
+                    "color": "#53498e",
+                    "selected": false
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "product_type": "Rechargement",
+            "products": [
+                {
+                    "id": null,
+                    "name": "un",
+                    "title": "un",
+                    "price": 1,
+                    "color": "#66b3ff",
+                    "selected": true
+                },
+                {
+                    "id": null,
+                    "name": "cinq",
+                    "title": "cinq",
+                    "price": 5,
+                    "color": "#66b3ff",
+                    "selected": true
+                },
+                {
+                    "id": null,
+                    "name": "dix",
+                    "title": "dix",
+                    "price": 10,
+                    "color": "#66b3ff",
+                    "selected": true
+                },
+                {
+                    "id": null,
+                    "name": "vingt",
+                    "title": "vingt",
+                    "price": 20,
+                    "color": "#66b3ff",
+                    "selected": true
+                },
+                {
+                    "id": null,
+                    "name": "cinquante",
+                    "title": "cinquante",
+                    "price": 50,
+                    "color": "#66b3ff",
+                    "selected": true
+                }
+            ]
+        }
+    ]
+}

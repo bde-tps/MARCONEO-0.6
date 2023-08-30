@@ -1,0 +1,72 @@
+2023-08-30 05:04:17 - MARCONEO - INFO - Starting MarcoNeo v0.6...
+2023-08-30 05:04:17 - MARCONEO - INFO - Retrieving API config...
+2023-08-30 05:04:17 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): bde-pprd.its-tps.fr:443
+2023-08-30 05:04:17 - urllib3.connectionpool - DEBUG - https://bde-pprd.its-tps.fr:443 "GET /api/product HTTP/1.1" 200 None
+2023-08-30 05:04:17 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): bde-pprd.its-tps.fr:443
+2023-08-30 05:04:17 - urllib3.connectionpool - DEBUG - https://bde-pprd.its-tps.fr:443 "GET /api/productType HTTP/1.1" 200 None
+2023-08-30 05:04:17 - MARCONEO - INFO - API configurations files retrieved.
+2023-08-30 05:04:17 - MARCONEO - DEBUG - Request: connect_to_db
+2023-08-30 05:04:17 - MARCONEO - INFO - Request has been sent.
+2023-08-30 05:04:17 - MARCONEO - DEBUG - Setup DBCursor (attempt 1)
+2023-08-30 05:04:17 - MARCONEO - INFO - Connected to the database.
+2023-08-30 05:04:17 - MARCONEO - DEBUG - DBCursor setup complete.
+2023-08-30 05:04:17 - MARCONEO - INFO - MarcoNeo launched.
+2023-08-30 05:04:18 - MARCONEO - DEBUG - RFID is listening.
+2023-08-30 05:04:26 - MARCONEO - DEBUG - (ShoppingMenu)
+2023-08-30 05:04:37 - MARCONEO - DEBUG - (MainMenu)
+2023-08-30 05:04:43 - MARCONEO - DEBUG - GUI closed.
+2023-08-30 05:04:43 - MARCONEO - INFO - Closing MARCONEO...
+--------------------------------------------------------------
+2023-08-30 05:04:45 - MARCONEO - INFO - Starting MarcoNeo v0.6...
+2023-08-30 05:04:45 - MARCONEO - INFO - Retrieving API config...
+2023-08-30 05:04:45 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): bde-pprd.its-tps.fr:443
+2023-08-30 05:04:46 - urllib3.connectionpool - DEBUG - https://bde-pprd.its-tps.fr:443 "GET /api/product HTTP/1.1" 200 None
+2023-08-30 05:04:46 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): bde-pprd.its-tps.fr:443
+2023-08-30 05:04:46 - urllib3.connectionpool - DEBUG - https://bde-pprd.its-tps.fr:443 "GET /api/productType HTTP/1.1" 200 None
+2023-08-30 05:04:46 - MARCONEO - INFO - API configurations files retrieved.
+2023-08-30 05:04:46 - MARCONEO - DEBUG - Request: connect_to_db
+2023-08-30 05:04:46 - MARCONEO - INFO - Request has been sent.
+2023-08-30 05:04:46 - MARCONEO - DEBUG - Setup DBCursor (attempt 1)
+2023-08-30 05:04:46 - MARCONEO - INFO - Connected to the database.
+2023-08-30 05:04:46 - MARCONEO - DEBUG - DBCursor setup complete.
+2023-08-30 05:04:46 - MARCONEO - INFO - MarcoNeo launched.
+2023-08-30 05:04:46 - MARCONEO - DEBUG - RFID is listening.
+2023-08-30 05:04:49 - MARCONEO - INFO - Config switched to config
+2023-08-30 05:04:50 - MARCONEO - INFO - Config switched to default
+2023-08-30 05:04:50 - MARCONEO - INFO - Config switched to config
+2023-08-30 05:04:51 - MARCONEO - DEBUG - (SettingsMenu)
+2023-08-30 05:05:01 - MARCONEO - DEBUG - (MainMenu)
+2023-08-30 05:05:05 - MARCONEO - DEBUG - GUI closed.
+2023-08-30 05:05:05 - MARCONEO - INFO - Closing MARCONEO...
+--------------------------------------------------------------
+2023-08-30 05:05:09 - MARCONEO - INFO - Starting MarcoNeo v0.6...
+2023-08-30 05:05:09 - MARCONEO - INFO - Retrieving API config...
+2023-08-30 05:05:09 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): bde-pprd.its-tps.fr:443
+2023-08-30 05:05:09 - urllib3.connectionpool - DEBUG - https://bde-pprd.its-tps.fr:443 "GET /api/product HTTP/1.1" 200 None
+2023-08-30 05:05:09 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): bde-pprd.its-tps.fr:443
+2023-08-30 05:05:09 - urllib3.connectionpool - DEBUG - https://bde-pprd.its-tps.fr:443 "GET /api/productType HTTP/1.1" 200 None
+2023-08-30 05:05:09 - MARCONEO - INFO - API configurations files retrieved.
+2023-08-30 05:05:09 - MARCONEO - DEBUG - Request: connect_to_db
+2023-08-30 05:05:09 - MARCONEO - INFO - Request has been sent.
+2023-08-30 05:05:09 - MARCONEO - DEBUG - Setup DBCursor (attempt 1)
+2023-08-30 05:05:09 - MARCONEO - INFO - Connected to the database.
+2023-08-30 05:05:09 - MARCONEO - DEBUG - DBCursor setup complete.
+2023-08-30 05:05:09 - MARCONEO - INFO - MarcoNeo launched.
+2023-08-30 05:05:10 - MARCONEO - DEBUG - RFID is listening.
+2023-08-30 05:05:11 - MARCONEO - DEBUG - (SettingsMenu)
+2023-08-30 05:05:29 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): bde-pprd.its-tps.fr:443
+2023-08-30 05:05:29 - urllib3.connectionpool - DEBUG - https://bde-pprd.its-tps.fr:443 "GET /api/product HTTP/1.1" 200 None
+2023-08-30 05:05:29 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): bde-pprd.its-tps.fr:443
+2023-08-30 05:05:30 - urllib3.connectionpool - DEBUG - https://bde-pprd.its-tps.fr:443 "GET /api/productType HTTP/1.1" 200 None
+2023-08-30 05:05:31 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): bde-pprd.its-tps.fr:443
+2023-08-30 05:05:31 - urllib3.connectionpool - DEBUG - https://bde-pprd.its-tps.fr:443 "GET /api/product HTTP/1.1" 200 None
+2023-08-30 05:05:31 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): bde-pprd.its-tps.fr:443
+2023-08-30 05:05:32 - urllib3.connectionpool - DEBUG - https://bde-pprd.its-tps.fr:443 "GET /api/productType HTTP/1.1" 200 None
+2023-08-30 05:05:33 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): bde-pprd.its-tps.fr:443
+2023-08-30 05:05:33 - urllib3.connectionpool - DEBUG - https://bde-pprd.its-tps.fr:443 "GET /api/product HTTP/1.1" 200 None
+2023-08-30 05:05:33 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): bde-pprd.its-tps.fr:443
+2023-08-30 05:05:34 - urllib3.connectionpool - DEBUG - https://bde-pprd.its-tps.fr:443 "GET /api/productType HTTP/1.1" 200 None
+2023-08-30 05:05:37 - MARCONEO - DEBUG - (MainMenu)
+2023-08-30 05:05:39 - MARCONEO - DEBUG - GUI closed.
+2023-08-30 05:05:39 - MARCONEO - INFO - Closing MARCONEO...
+--------------------------------------------------------------

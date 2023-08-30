@@ -1,0 +1,48 @@
+{
+    "refill": {
+        "id": 1,
+        "product_type": "Rechargement",
+        "products": [
+            {
+                "id": null,
+                "name": "un",
+                "title": "un",
+                "price": 1,
+                "color": "#66b3ff",
+                "selected": true
+            },
+            {
+                "id": null,
+                "name": "cinq",
+                "title": "cinq",
+                "price": 5,
+                "color": "#66b3ff",
+                "selected": true
+            },
+            {
+                "id": null,
+                "name": "dix",
+                "title": "dix",
+                "price": 10,
+                "color": "#66b3ff",
+                "selected": true
+            },
+            {
+                "id": null,
+                "name": "vingt",
+                "title": "vingt",
+                "price": 20,
+                "color": "#66b3ff",
+                "selected": true
+            },
+            {
+                "id": null,
+                "name": "cinquante",
+                "title": "cinquante",
+                "price": 50,
+                "color": "#66b3ff",
+                "selected": true
+            }
+        ]
+    }
+}
