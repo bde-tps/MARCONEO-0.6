@@ -62,12 +62,12 @@ class APIJsons:
         """
         Setup the jsons.
         """
-        config = self.get_api("https://bde-pprd.its-tps.fr/api/product")
+        config = self.get_api("https://fouaille.its-tps.fr/api/product")
         self.config_manager.cat_selected_params(config)
         self.config_manager.cat_refill(config)
         self.config_manager.generate_json("config", config)
         self.config_json = config['data']
 
-        config = self.get_api("https://bde-pprd.its-tps.fr/api/productType")
+        config = self.get_api("https://fouaille.its-tps.fr/api/productType")
         self.config_manager.generate_json("categories", config)
         self.categories_json = config['data']
