@@ -4,3 +4,5 @@ pwd.txt
 TODO.txt
 .env
 .idea
+data/config/config.json
+data/config/categories.json
