@@ -66,7 +66,7 @@ class Footer(Frame):
 
         cart_frame.place(relx=0.5, rely=0.5, anchor="center")
         self.back_btn.place(relx=0.02, rely=0.5, anchor="w")
-        self.confirm_btn.place(relx=0.99, rely=0.5, anchor="e")
+        self.confirm_btn.place(relx=0.80, rely=0.25, anchor="e")
 
     def reset(self):
         """
