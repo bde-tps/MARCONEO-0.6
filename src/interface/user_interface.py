@@ -88,7 +88,8 @@ class GUI(Tk):
         """
         self.title("MarcoNeo")
         self.geometry("800x480")
-        self.resizable(True, True)
+        self.resizable(False, False)
+        self.attributes("-fullscreen", True)
         #self.iconbitmap(os.path.join(os.getcwd(),"DATA","IMAGES","logo.ico"))
         #self.config(bg="black")
         return True
