@@ -6,4 +6,6 @@ COPY . /marco/
 
 RUN pip install --no-cache-dir -r requirements.txt
 
+RUN chmod -R 777 .
+
 CMD ["python", "main.py"]
