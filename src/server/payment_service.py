@@ -55,7 +55,7 @@ class PaymentService:
         self.app.db_cursor.update_balance(self.current_user)
         self.app.db_cursor.send_order(product_id=product_id,
                                         member_id=member_id,
-                                        price=price,
+                                        price=-price,
                                         amount=quantity)
 
         self.loggers.log.info("Purchase confirmed. New balance of %s is %s€.",
