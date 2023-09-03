@@ -39,13 +39,18 @@ class PaymentService:
             # Only products with null id are refillments.
             if product_id is None:
                 self.current_user.balance += price*quantity
+
+                self.commit_purchase(product_id=product_id,
+                                     member_id=member_id,
+                                     price=price,
+                                     quantity=quantity)
             else:
                 self.current_user.balance -= price*quantity
 
-            self.commit_purchase(product_id=product_id,
-                                 member_id=member_id,
-                                 price=price,
-                                 quantity=quantity)
+                self.commit_purchase(product_id=product_id,
+                                     member_id=member_id,
+                                     price=-price,
+                                     quantity=quantity)
 
     def commit_purchase(self, product_id:int=None, member_id:int=None,
                         price:int=None, quantity:int=None) -> None:
@@ -55,7 +60,7 @@ class PaymentService:
         self.app.db_cursor.update_balance(self.current_user)
         self.app.db_cursor.send_order(product_id=product_id,
                                         member_id=member_id,
-                                        price=-price,
+                                        price=price,
                                         amount=quantity)
 
         self.loggers.log.info("Purchase confirmed. New balance of %s is %s€.",
