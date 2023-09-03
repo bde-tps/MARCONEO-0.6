@@ -1,15 +1,130 @@
 {
     "data": [
         {
+            "id": 3,
+            "product_type": "afterwork",
+            "products": [
+                {
+                    "id": 7,
+                    "name": "chuff",
+                    "title": "chuff",
+                    "price": "2.50",
+                    "color": "#f5ec00",
+                    "selected": false
+                },
+                {
+                    "id": 8,
+                    "name": "Cidre",
+                    "title": "Cidre",
+                    "price": "4.00",
+                    "color": "#77bb41",
+                    "selected": false
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "product_type": "gouter",
+            "products": []
+        },
+        {
+            "id": 5,
+            "product_type": "oeno",
+            "products": []
+        },
+        {
+            "id": 4,
+            "product_type": "repas",
+            "products": [
+                {
+                    "id": 9,
+                    "name": "repas",
+                    "title": "repas",
+                    "price": "1.50",
+                    "color": "#4d22b3",
+                    "selected": false
+                },
+                {
+                    "id": 10,
+                    "name": "desert",
+                    "title": "desert",
+                    "price": "0.50",
+                    "color": "#e32400",
+                    "selected": false
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "product_type": "shot",
+            "products": []
+        },
+        {
             "id": 1,
-            "product_type": "biere",
+            "product_type": "soiree",
             "products": [
                 {
                     "id": 1,
-                    "name": "primus",
-                    "title": "primus",
+                    "name": "Primus",
+                    "title": "Primus",
                     "price": "1.40",
-                    "color": "#d58400",
+                    "color": "#ffd977",
+                    "selected": false
+                },
+                {
+                    "id": 2,
+                    "name": "Kasteel Red",
+                    "title": "KasteelR",
+                    "price": "2.00",
+                    "color": "#831100",
+                    "selected": false
+                },
+                {
+                    "id": 3,
+                    "name": "Slash Mangue",
+                    "title": "SlashM",
+                    "price": "2.00",
+                    "color": "#ff6a00",
+                    "selected": false
+                },
+                {
+                    "id": 4,
+                    "name": "Friels",
+                    "title": "Friels",
+                    "price": "2.00",
+                    "color": "#fff994",
+                    "selected": false
+                },
+                {
+                    "id": 5,
+                    "name": "Castor Rouge",
+                    "title": "CastorR",
+                    "price": "2.00",
+                    "color": "#831100",
+                    "selected": false
+                },
+                {
+                    "id": 6,
+                    "name": "Hop and Heart",
+                    "title": "H&H",
+                    "price": "2.00",
+                    "color": "#fdc700",
+                    "selected": false
+                },
+                {
+                    "id": 11,
+                    "name": "cocktail1",
+                    "title": "cocktail1",
+                    "price": "1.20",
+                    "color": "#00c7fc",
+                    "selected": false
+                },
+                {
+                    "id": 12,
+                    "name": "cocktail2",
+                    "title": "cocktail2",
+                    "price": "1.60",
+                    "color": "#be38f3",
                     "selected": false
                 }
             ]
