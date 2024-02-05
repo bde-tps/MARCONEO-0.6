@@ -7,6 +7,7 @@ to listen to the RFID reader.
 """
 
 #------------------------------------------------------------#
+from src.utils.hardware import key_to_number
 
 class RFID:
     """
@@ -32,7 +33,7 @@ class RFID:
 
             self.loggers.log.debug(f"Parsing RFID card number {self.buffer}...")
             try:
-                id_in_buffer = int(self.buffer)
+                id_in_buffer = key_to_number(self.buffer)
             except ValueError:
                 self.loggers.log.error("RFID card corrupted.")
                 self.buffer = ""  # Reset the buffer
