@@ -87,7 +87,6 @@ class GUI(Tk):
         Setup the window of the application.
         """
         self.title("MarcoNeo")
-        self.geometry("800x480")
         self.resizable(False, False)
         self.attributes("-fullscreen", True)
         #self.iconbitmap(os.path.join(os.getcwd(),"DATA","IMAGES","logo.ico"))
